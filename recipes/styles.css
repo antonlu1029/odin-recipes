@@ -1,0 +1,18 @@
+.shared {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.list1 {
+    background-color: red;
+}
+
+.list2 {
+    background-color: green;
+    font-style: italic;
+}
+
+.image {
+    height: 200px;
+    width: 600px;
+}
